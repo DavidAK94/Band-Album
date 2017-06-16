@@ -1,2 +1,6 @@
 th {color:green}
-li {font-style: oblique;}
+li {font-style: italic;}
+p {
+    font-size: 36px;
+    font-weight: bold;
+}
